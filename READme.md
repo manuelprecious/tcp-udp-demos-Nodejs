@@ -13,3 +13,20 @@ CONS
 => Slower than UDP
 => Stateful
 => Server Memory (DOS)
+
+
+Pros and Cons of UDP
+
+PROS
+=> Smaller packets
+=> Less bandwidth
+=> Faster than TCP.
+=> Stateless.
+
+CONS
+=> No Acknowledgement
+=> No Guaranteed delivery
+=> Connectionless
+=> No congestion control
+=> No ordered packets
+=> Security.
